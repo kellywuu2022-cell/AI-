@@ -1153,11 +1153,11 @@
     </tr> 
     <tr>
         <td>6</td>
-        <td><img src="https://favicon.zhusl.com/ico?url=image.tinchak0207.xyz" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
-        <td><a href="https://image.tinchak0207.xyz" target="_blank">Emu</a></td>
+        <td><img src="https://favicon.zhusl.com/ico?url=eimu.art" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://eimu.art" target="_blank">Eimu</a></td>
         <td>在线生成 GPT Image 2 / Nano Banana Pro 图片，登录即用，无需申请 API Key...</td>
         <td></td>
-        <td><a href="https://image.tinchak0207.xyz" target="_blank">🔗</a></td>
+        <td><a href="https://eimu.art" target="_blank">🔗</a></td>
     </tr>
 </table>
 
